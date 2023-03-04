@@ -43,6 +43,7 @@ I'm interesting in Coding, DevOps, CyberSecurity and Technology; "EAT, SLEEP, JU
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/Kin Owen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/drakendevops" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
