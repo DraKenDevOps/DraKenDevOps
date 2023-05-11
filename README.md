@@ -1,4 +1,4 @@
-Hi 👋 My name is Anakin Nanthavongsa, Nickname is Owen
+Hi 👋 My name is Owen
 ======================================================
 
 Software Developer
