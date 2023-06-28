@@ -4,12 +4,6 @@ Hi 👋 My name is Owen
 Software Developer
 ------------------
 
-I'm interesting in Coding, DevOps, CyberSecurity and Technology; "EAT, SLEEP, JUST DO IT, REPEAT"
-
-* 🌍  I'm based in Vientiane, Lao PDR
-* ✉️  You can contact me at [anakin.nanthavongsa@gmail.com](mailto:anakin.nanthavongsa@gmail.com)
-* 🧠  I'm learning Kubernates
-
 ### Skills
 
 <p align="left">
